@@ -9,4 +9,4 @@ Data and code to reproduce results in "Evaluation of Seasonality in Sea Surface 
     - OSCAR surface velocity: https://podaac.jpl.nasa.gov/dataset/OSCAR_L4_OC_third-deg
     - NOAA Coastwatch Ekman Upwelling: https://coastwatch.pfeg.noaa.gov/erddap/griddap/erdQAstressmday.html
 
-- [This code](SSS_FMAV_registration) reproduces results presented in the paper.
+- [This code](SSS_FMAV_registration.m) reproduces results presented in the paper.
