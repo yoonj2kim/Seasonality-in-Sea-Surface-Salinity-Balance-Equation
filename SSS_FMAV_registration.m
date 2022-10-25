@@ -10,7 +10,6 @@ forc = ncread('ArgoSIOForcingAdvectionVerticalMixing.nc','forcing');
 fae = ncread('ArgoSIOForcingAdvectionVerticalMixing.nc','forcing_minus_advection_and_vertical_mixing');
 
 setup_paths
-addpath 'C:\Users\yoonj\OneDrive - The Ohio State University\fdaM'
 
 % data missing Jan/Feb 2014 & July 2019
 time = time(54:117);
